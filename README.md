@@ -1,4 +1,4 @@
-# Investigate-Gun-dataset
+# Investigate-Gun-datase
 ## FBI-gun-data-analysis Project
 
 The purpose of this project is to explore the trends of U.S gun purchases with census population data.
