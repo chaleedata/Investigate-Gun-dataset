@@ -17,7 +17,7 @@ Download data [link](https://docs.google.com/document/d/e/2PACX-1vTlVmknRRnfy_4e
 [MIT License](https://github.com/chaleedata/Investigate-Gun-dataset-/blob/master/LICENSE)
 
 Copyright (c) 2020 chalee cheappimolchai
-
+ 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
